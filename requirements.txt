@@ -1,0 +1,16 @@
+# Core data manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Web dashboard
+streamlit
+
+# Excel support
+openpyxl
+
+# Machine learning
+scikit-learn
