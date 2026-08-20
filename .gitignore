@@ -9,11 +9,6 @@ venv/
 env/
 .venv/
 
-# Data files (raw data lớn không nên đẩy lên git)
-data/raw/*
-data/processed/*
-!data/**/.gitkeep
-
 # IDE / OS
 .vscode/
 .idea/
